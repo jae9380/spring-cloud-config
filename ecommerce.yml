@@ -1,6 +1,6 @@
 token:
-  expiration_time: 86400000
+  expiration_time: 864
   secret: verylongandsecuresecretkeythatisatleast32characters
 
 gateway:
-  ip: 172.21.0.1
+  ip: 192.168.55.187
