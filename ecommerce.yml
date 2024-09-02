@@ -1,0 +1,6 @@
+token:
+  expiration_time: 86400000
+  secret: verylongandsecuresecretkeythatisatleast32characters
+
+gateway:
+  ip: 172.21.0.1
