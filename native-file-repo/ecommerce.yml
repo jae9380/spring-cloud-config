@@ -1,0 +1,6 @@
+token:
+  expiration_time: 86400000
+  secret: verylongandsecuresecretkeythatisatleast32characters_native_ecommerce
+
+gateway:
+  ip: 192.168.55.187
