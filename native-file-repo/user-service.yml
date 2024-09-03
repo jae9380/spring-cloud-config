@@ -3,4 +3,5 @@ token:
   secret: verylongandsecuresecretkeythatisatleast32characters_native_user_service
 
 gateway:
-  ip: 192.168.55.187
+  ip: 192.168.103.67
+# mac : 192.168.103.67 / pc : 192.168.55.187 
