@@ -10,7 +10,7 @@ token:
   secret: "{cipher}AYBbRbZf+pBLV5kFkUeWu4TefP4CUMTzzAPqjH/X1Vo/TB/neO7n9OrnS8T6AMKx/gh7NeoIiCkzzUaLDq+f+R+YFvfnM4RCSHm5UfEOREUE33zKm3CJCoUJmdzCVHsq0iv8JYHBdbQaY8m65au4WFB8iZNZgrA+nNPFsu1rnkwXyB2ECCcRlydejplcGPf5nhq7ksDKCrts0bQICGAC84ZN8nWih/+MNytNYWgZinwLFQVwG5ctfoYqrrb4JvG9FyrcxIu1U6aW9zo0Neoqa29mW8g9zf+Q78W3V2aDPSScm0vshQ2nDvbT+pgFZqbYlwKFzCTDUcApjHeJUqXsXvyYaUQt1jVCK/5cQPhD+4NaHkCja0ajry4l5OayJa8jh/yrYcNg7j0tRiz1xqXiyvrYjYp33MG3ap6GBCGhSdRM1px3Kx/wGq7eOr0Mr3O3vxCG3ys42eDmKSzxwORqvnuFg12DrZl7Z+4lvRkDHs75v8FnpA7uSZFY3PUSf8AbTQKixgeDOcYivzy0EW3Wh5vINjGqaPlASdGeJgWgcKEl+sJ/M6IgfptlseavAIByXYQHCPunnYGHvn2Lulifqel0R/s4/iMlVak7gvuCR5Ym/C/AlIaK46i2MfUkYsFHuyo="
 
 gateway:
-  ip: 192.168.55.187
+  ip: 172.19.0.1
 # mac : 192.168.103.67 / pc : 192.168.55.187
 
 order_service:
